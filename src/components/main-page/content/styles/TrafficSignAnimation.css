@@ -1,0 +1,20 @@
+.traffic-light {
+    font-size: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: pulse 3s infinite ease-in-out;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  

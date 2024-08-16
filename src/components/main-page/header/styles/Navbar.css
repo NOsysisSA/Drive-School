@@ -1,0 +1,19 @@
+.Navbar{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+    font-size:18px;
+}
+a{
+    text-decoration: none;
+    color: #008080;
+    transition: 0.2s;
+
+}
+
+a:hover{
+    color: #00B7FF;
+    transform: scale(1.1);
+}
+

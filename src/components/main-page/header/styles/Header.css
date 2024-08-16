@@ -1,0 +1,10 @@
+.Header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: 17px;
+    height: 90px;
+    background-color: #defdfd;
+    border-radius:0 0 15px 15px;
+    border: 1px solid #c4c4c4;
+}
